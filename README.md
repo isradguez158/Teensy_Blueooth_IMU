@@ -1,1 +1,1 @@
-# Teensy_Blueooth_IMU
+# Teensy_Bluetooth_IMU
